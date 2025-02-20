@@ -3,7 +3,6 @@
 Hlavičkový soubor k funkcím použitým v diplomové práci
 Návrh a realizace softwarové aplikace pro analýzu neurologických
 abnormalit z obrazů magnetické rezonance
-Jan Krmela
 
 
 avg_thick.py
